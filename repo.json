@@ -1,0 +1,8 @@
+{
+  "name": "Avocado's Extensions",
+  "description": "this is a semi reboot of the original dsh extensions made by dontseehere, since I am maintaining them, but I make my own aswell 😊",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/KillerDogeEmpire/avocado-extensions/builds/plugins.json"
+  ]
+}

@@ -1,0 +1,243 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=appaudiobooks.com/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/KillerDogeEmpire/avocado-extensions",
+        "fileSize": 10427,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 3,
+        "internalName": "AppAudiobookProvider",
+        "description": "Audiobooks with some more books not in other sources -  download in addition to GoldenAudiobooks if book not found there",
+        "url": "https://raw.githubusercontent.com/KillerDogeEmpire/avocado-extensions/builds/AppAudiobookProvider.cs3",
+        "name": "AppAudiobookProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://coolsanime.me//&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/KillerDogeEmpire/avocado-extensions",
+        "fileSize": 16950,
+        "status": 0,
+        "language": "hi",
+        "authors": [
+            "KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 5,
+        "internalName": "CoolsAnimeProvider",
+        "description": "Hindi dubbed cartoons - Good site imo, if broken links found ping blonde_one on Discord",
+        "url": "https://raw.githubusercontent.com/KillerDogeEmpire/avocado-extensions/builds/CoolsAnimeProvider.cs3",
+        "name": "CoolsAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=deadtoons.co/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/KillerDogeEmpire/avocado-extensions",
+        "fileSize": 10461,
+        "status": 0,
+        "language": "hi",
+        "authors": [
+            "KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 12,
+        "internalName": "DeadToonsIndiaProvider",
+        "description": "Hard to scrap, dropped",
+        "url": "https://raw.githubusercontent.com/KillerDogeEmpire/avocado-extensions/builds/DeadToonsIndiaProvider.cs3",
+        "name": "DeadToonsIndiaProvider"
+    },
+    {
+        "iconUrl": "https://footyfull.com/wp-content/uploads/2021/06/logo2x.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/KillerDogeEmpire/avocado-extensions",
+        "fileSize": 10909,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "FootyFullProvider",
+        "description": "Football recordings",
+        "url": "https://raw.githubusercontent.com/KillerDogeEmpire/avocado-extensions/builds/FootyFullProvider.cs3",
+        "name": "FootyFullProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.fulltoonsindia.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/KillerDogeEmpire/avocado-extensions",
+        "fileSize": 15855,
+        "status": 0,
+        "language": "hi",
+        "authors": [
+            "KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 10,
+        "internalName": "FullToonsIndiaProvider",
+        "description": "hindi dubbed cartoons - only Doodstream works, wait 10 seconds for Mediafire links",
+        "url": "https://raw.githubusercontent.com/KillerDogeEmpire/avocado-extensions/builds/FullToonsIndiaProvider.cs3",
+        "name": "FullToonsIndiaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=goldenaudiobook.com/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/KillerDogeEmpire/avocado-extensions",
+        "fileSize": 12176,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 11,
+        "internalName": "GoldenAudiobookProvider",
+        "description": "Audiobooks - Use Picture in Picture or VLC as external player",
+        "url": "https://raw.githubusercontent.com/KillerDogeEmpire/avocado-extensions/builds/GoldenAudiobookProvider.cs3",
+        "name": "GoldenAudiobookProvider"
+    },
+    {
+        "iconUrl": "https://librivox.org/wp-content/themes/librivox/images/librivox-logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/KillerDogeEmpire/avocado-extensions",
+        "fileSize": 10904,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 5,
+        "internalName": "LibriVoxAudiobookProvider",
+        "description": "Audiobooks in public domain",
+        "url": "https://raw.githubusercontent.com/KillerDogeEmpire/avocado-extensions/builds/LibriVoxAudiobookProvider.cs3",
+        "name": "LibriVoxAudiobookProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Nain.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/KillerDogeEmpire/avocado-extensions",
+        "fileSize": 42050,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Stormunblessed, KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 22,
+        "internalName": "NineAnimeProvider",
+        "description": "Watch 9anime with the help of the Consumet API. Use 9anime 2 to fix the issue of loading 9anime if you have it, if it doesn't report an issue on the github or DM blonde_one on discord.",
+        "url": "https://raw.githubusercontent.com/KillerDogeEmpire/avocado-extensions/builds/NineAnimeProvider.cs3",
+        "name": "NineAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=noodlemagazine.com/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/KillerDogeEmpire/avocado-extensions",
+        "fileSize": 12292,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 5,
+        "internalName": "NoodleMagazineProvider",
+        "description": "type .nofap in discord - Full Length",
+        "url": "https://raw.githubusercontent.com/KillerDogeEmpire/avocado-extensions/builds/NoodleMagazineProvider.cs3",
+        "name": "NoodleMagazineProvider"
+    },
+    {
+        "iconUrl": "https://tokybook.com/wp-content/uploads/TOKY-BOOK-website.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/KillerDogeEmpire/avocado-extensions",
+        "fileSize": 11400,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 6,
+        "internalName": "TokyBookProvider",
+        "description": "Audiobook Source with good library, use Search, the homepage sucks",
+        "url": "https://raw.githubusercontent.com/KillerDogeEmpire/avocado-extensions/builds/TokyBookProvider.cs3",
+        "name": "TokyBookProvider"
+    },
+    {
+        "iconUrl": "https://toonworld4all.me/wp-content/uploads/2020/02/Toonworld4all-logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/KillerDogeEmpire/avocado-extensions",
+        "fileSize": 22846,
+        "status": 0,
+        "language": "hi",
+        "authors": [
+            "KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "ToonWorldForAllProvider",
+        "description": "REPORT BROKEN LINKS IN DISCORD AND PING blonde_one, Hindi cartoons, wait for other video quality to load, each takes 5 sec bcz rocklinks :/",
+        "url": "https://raw.githubusercontent.com/KillerDogeEmpire/avocado-extensions/builds/ToonWorldForAllProvider.cs3",
+        "name": "ToonWorldForAllProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=watchwrestling.bz/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/KillerDogeEmpire/avocado-extensions",
+        "fileSize": 25649,
+        "status": 0,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "WatchWrestlingProvider",
+        "description": "Wrestling",
+        "url": "https://raw.githubusercontent.com/KillerDogeEmpire/avocado-extensions/builds/WatchWrestlingProvider.cs3",
+        "name": "WatchWrestlingProvider"
+    }
+]
